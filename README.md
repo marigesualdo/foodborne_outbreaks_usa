@@ -1,5 +1,5 @@
 # Foodborne Outbreaks USA Python Project
-<img src="Captura de tela 2023-09-20 154952.png">
+
 
 Identification of main pathogens and food sources of foodborne outbreaks in the USA in the last decade using data provideded by the Center of Diseases and Control from the United
 States.

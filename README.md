@@ -1,9 +1,10 @@
 # Foodborne Outbreaks USA Python Project
+<img src="Captura de tela 2023-09-20 154952.png">
 
 Identification of main pathogens and food sources of foodborne outbreaks in the USA in the last decade using data provideded by the Center of Diseases and Control from the United
 States.
 
-## Tableau link : https://public.tableau.com/views/Foodbornediseasesoutbreaks/Story1?:language=pt-BR&:display_count=n&:origin=viz_share_link
+### Tableau link : https://public.tableau.com/views/Foodbornediseasesoutbreaks/Story1?:language=pt-BR&:display_count=n&:origin=viz_share_link
 
 ## Objective
 The identification of the most important foodborne pathogens and which kind of transmission route occurred for the determination of prevention and control plans, 
